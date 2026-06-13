@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Recommendation System — MovieLens 100K
 
 An evaluated recommender system built on the real **MovieLens 100K** dataset
